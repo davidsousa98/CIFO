@@ -1,11 +1,11 @@
 # Computational Intelligence for Optimization     
 
- The main objective of this project is to explore Optimization concepts through the implementation of several algorithms and genetic operators well known in the field of Genetic Algorithm. 
-
 | Grade                | Mean                  |
 |:--------------------:|:---------------------:|
 | 17/20                | NA                    | 
 
+
+ The main objective of this project is to explore Optimization concepts through the implementation of several algorithms and genetic operators well known in the field of Genetic Algorithm. 
 
 This project is composed of two common problems in this area, Travel Salesman Problem (TSP) and Portfolio Investment Problem (PIP). 
 
