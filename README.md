@@ -16,7 +16,7 @@ For both cases, our main goal is to outperform the baseline version of the Genet
 
 The project description can be consulted at: https://bit.ly/2zyefrn
 
-The report with the detailed approaches and results of this project can be consulted at: https://bit.ly/35e8Ykr 
+The report with the detailed approaches and results of this project can be consulted at: https://bit.ly/3dWZEoa 
 
 ### Additional information:
 
