@@ -24,7 +24,7 @@ The report with the detailed approaches and results of this project can be consu
 
 **Project Maximum Size:** None
 
-**Beginning Date:** 27th November 2020
+**Beginning Date:** 27th November 2019
 
 **Due Date:** 11th January 2020
 
